@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: Research
+  url: /research/
+
+- title: Publications
+  url: /publications/
+
+- title: Teaching
+  url: /teaching/
+
+- title: Software
+  url: /software/
+
+- title: Team
+  url: /team/
+
+- title: Posts
+  url: /posts/
+
+- title: About
+  url: /about/
