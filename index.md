@@ -1,33 +1,27 @@
 ---
 layout: homepage
 image:
-  feature: fm-header-1.jpg
-title: "About"
+  feature: pic_header_1.jpg
 ---
 
-<footer role="contentinfo">
-  <div class="article-author-bottom">
-    {% include _author-bio.html %}
-  </div>
-</footer>
 
+**I am a postdoctoral researcher working on mountain glaciers changes from satellite observations.** I study the response of glaciers to climate change over the last 50 years using a combination of satellite images (optical and radar) and glacier models. Areas of interest include: High-Mountain Asia, European Alps, Arctic. 
 
-I am an assistant professor at the
-[Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at/),
- part of the [Research Centre for Climate](https://www.uibk.ac.at/climate-cryosphere/)
-at the University of Innsbruck.
+I am currently based in the Earth Science division of the [NASA Jet Propulsion Laboratory](https://science.jpl.nasa.gov/EarthScience/index.cfm), where I am employed as a Caltech postodoctoral scholar on a project aiming at estimating the glaciers contribution to sea level rise since the 1970s using historical satellite imagery. I am also studying the dynamics response of glaciers to these changes using surface ice flow velocities derived from feature-tracking of repeat imagery.
 
-Before that, I was working at the
-[Chair of Climatology](http://www.klima.tu-berlin.de/index.php?show=home_start&lan=en/),
-TU Berlin, where I obtained my PhD in 2014.
-I graduated from the French aerospace engineering school
-[ISAE-Supaero](http://www.isae.fr/en) in 2008.
+I have co-developed **GeoRaster** and **GeoUtils**, two Python packages for working with geographic rasters and vectors. Take a look at the [blog post](georaster-released), [documentation](http://georaster.readthedocs.io/en/latest/) or [GitHub repository](https://github.com/geoutils/georaster) for more details.
 
+## Contact information
 
-![ACINN Logo](/images/acinn_logo.png)
-{: .image-pull-right .max-width-20}
+Jet Propulsion Laboratory  
+M/S 300-323  
+4800 Oak Grove Drive  
+Pasadena, CA 91109
 
-### Contact
-<p>
-I live in Innsbruck, Austria. You'll find me in my <a href="http://acinn.uibk.ac.at/persons/fabien_maussion">office</a> at the usual
-working hours.  Otherwise, you can reach me at <script>document.write("<n uers=\"znvygb:snovra.znhffvba@hvox.np.ng\">snovra.znhffvba@hvox.np.ng</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}))</script><noscript><span style="unicode-bidi:bidi-override;direction:rtl;">moc.liamg@reyohs</span></noscript>.</p>
+*Email:* amaury.dehecq at jpl.nasa.gov
+
+## Background
+
+* 2016-: Postdoctoral scholar, Jet Propulsion Laboratory/CalTech, Pasadena, CA, USA
+* 2016: Postdoctoral research assistant, University of Edinburgh, UK
+* 2012-2015: *PhD* student, Université Savoie Mont-Blanc, Annecy, France

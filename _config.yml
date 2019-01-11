@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: Fabien Maussion
-bio: "Climate, glaciers, and other things."
+title: Amaury Dehecq
+bio: "Postdoc at JPL, California (NASA/Caltech) working on remote sensing of glacier changes."
 locale: en_US
 url: 
 image:
@@ -28,29 +28,29 @@ kramdown:
 
 # Site owner
 owner:
-  name: Fabien Maussion
-  avatar: fabi-portrait.jpg
-  bio: "Climate, glaciers, and other things."
-  github: fmaussion
-  bitbucket: fmaussion
-  orcid: 0000-0002-3211-506X
-  scholar: tTpQiSgAAAAJ
-  mendeley: fabien-maussion
+  name: Amaury Dehecq
+  avatar: photo_profil.jpg
+  bio: "Postdoc at JPL, California (NASA/Caltech) working on remote sensing of glacier changes."
+  github: adehecq
+  bitbucket: adehecq
+  orcid: 0000-0002-5157-1183
+  scholar: 4Fk2yxUAAAAJ
+  mendeley:
   researchgate:
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+  stackoverflow: 
   email:
-  disqus-shortname: fmaussion
-  twitter: oggm1
-  facebook: #username
+  disqus-shortname: 
+  twitter: 
+  facebook: 
   google:
-    plus: #username
+    plus: 
     analytics: UA-88391345-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
   linkedin: #username
-  instagram: uibk.climate
+  instagram: 
   lastfm: #username
   tumblr: #username
   pinterest: #username
