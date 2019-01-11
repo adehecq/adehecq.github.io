@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GeoRaster package for Python released
+share: false
 ---
 
 GeoRaster, a Python package which hugely simplifies the process of working with geographic rasters, is now available as a stable package on [conda-forge](http://conda-forge.github.io/) and [PyPI](http://www.pypi.org) with a GPLv3 licence. It provides high-level wrapping of the [GDAL](http://www.gdal.org) library, removing a lot of the complexity traditionally associated with importing GDAL-compatible datasets into Python. I actively maintain and develop the package, which also includes significant contributions from [Andrew Tedstone](https://atedstone.github.io).
