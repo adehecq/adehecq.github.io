@@ -4,6 +4,12 @@ image:
   feature: pic_header_1.jpg
 ---
 
+<footer role="contentinfo">
+  <div class="article-author-bottom">
+    {% include _author-bio.html %}
+  </div>
+</footer>
+
 
 **I am a postdoctoral researcher working on mountain glaciers changes from satellite observations.** I study the response of glaciers to climate change over the last 50 years using a combination of satellite images (optical and radar) and glacier models. Areas of interest include: High-Mountain Asia, European Alps, Arctic. 
 
