@@ -1,7 +1,7 @@
 ---
 layout: page
 image:
-  feature: pic_header_1.jpg
+  feature:
 title: Publications
 ---
 (Last updated on 09/01/2019)  

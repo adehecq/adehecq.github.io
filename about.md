@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: fm-header-8.jpg
+  feature: pic_header_2.jpg
 title: "About"
 modified: 2019-01-11
 ---
