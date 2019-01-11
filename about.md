@@ -6,6 +6,14 @@ title: "About"
 modified: 2019-01-11
 ---
 
+
+<footer role="contentinfo">
+  <div class="article-author-bottom">
+    {% include _author-bio.html %}
+  </div>
+</footer>
+
+
 ### About the panoramas
 * [Homepage]({{ site.url }}/images/pic_header_1.jpg): View from Mera glacier, facing Mount Everest, Lhotse and Makalu (Nepal)
 
