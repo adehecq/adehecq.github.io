@@ -14,7 +14,7 @@
   <p>{{ author.bio }}</p>
 
   {% if author.orcid %}<a href="http://orcid.org/{{ author.orcid }}" class="author-social"><i class="ai ai-orcid-square"></i></a>{% endif %}
-  {% if author.scholar %}<a href="https://scholar.google.com/citations?user=/{{ author.scholar }}" class="author-social"><i class="ai ai-google-scholar-square"></i></a>{% endif %}
+  {% if author.scholar %}<a href="https://scholar.google.com/citations?user={{ author.scholar }}" class="author-social"><i class="ai ai-google-scholar-square"></i></a>{% endif %}
   {% if author.mendeley %}<a href="https://www.mendeley.com/profiles/{{ author.mendeley }}" class="author-social"><i class="ai ai-mendeley-square"></i></a>{% endif %}
   {% if author.researchgate %}<a href="https://www.researchgate.net/profile/{{ author.researchgate }}" class="author-social"><i class="ai ai-researchgate-square"></i></a>{% endif %}
   {% if author.github %}<a href="http://github.com/{{ author.github }}" class="author-social"><i class="fa fa-github-square"></i></a>{% endif %}
