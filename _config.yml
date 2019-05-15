@@ -17,7 +17,9 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
-
+plugins:
+  - jekyll-seo-tag
+  
 kramdown:
   auto_ids: true
   footnote_nr: 1
