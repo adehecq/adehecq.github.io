@@ -19,21 +19,16 @@ I have co-developed **GeoRaster** and **GeoUtils**, two Python packages for work
 
 ## Contact information
 
-HIA D-54.2
+HIA D-54.2  
+Hönggerbergring 26  
+ETH  
+8093 Zürich  
+Switzerland  
 
-Hönggerbergring 26
-
-ETH
-
-8093 Zürich
-
-Switzerland
-
-
-*Email:* adehecq at vaw.baug.ethz.ch
+*Email:* adehecq at vaw.baug.ethz.ch 
 
 ## Previous affiliations
 
-* 2016-2019: Postdoctoral scholar, NASA Jet Propulsion Laboratory/CalTech, Pasadena, CA, USA  (A. Gardner)
-* 2016: Postdoctoral research assistant, University of Edinburgh, UK  (N. Gourmelen)
-* 2012-2015: *PhD* student, Université Savoie Mont-Blanc, Annecy, France  (N. Gourmelen, E. Trouvé)
+* 2016-2019: Postdoctoral scholar, NASA Jet Propulsion Laboratory/CalTech, Pasadena, CA, USA  (A. Gardner) 
+* 2016: Postdoctoral research assistant, University of Edinburgh, UK  (N. Gourmelen) 
+* 2012-2015: *PhD* student, Université Savoie Mont-Blanc, Annecy, France  (N. Gourmelen, E. Trouvé) 
