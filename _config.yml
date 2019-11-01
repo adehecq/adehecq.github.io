@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Amaury Dehecq
-bio: "Postdoc at JPL, California (NASA/Caltech) working on remote sensing of glacier changes."
+bio: "Postdoc at ETH Zürich, Switzerland, working on remote sensing of glacier changes."
 locale: en_US
 url: 
 image:
@@ -32,7 +32,7 @@ kramdown:
 owner:
   name: Amaury Dehecq
   avatar: photo_profil.jpg
-  bio: "Postdoc at JPL, California (NASA/Caltech) working on remote sensing of glacier changes."
+  bio: "Postdoc at ETH Zürich, Switzerland, working on remote sensing of glacier changes."
   github: adehecq
   bitbucket: adehecq
   orcid: 0000-0002-5157-1183
