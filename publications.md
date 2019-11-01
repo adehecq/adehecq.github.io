@@ -14,6 +14,8 @@ Press coverage : [BBC](https://www.bbc.com/news/science-environment-46502040), [
 
 - Menounos, B., Hugonnet, R., Shean, D., Gardner, A., Howat, I., Berthier, E., Pelto, B., Tennant, C., Shea, J., Noh, M.-J., Brun, F., **Dehecq, A.**, 2018 Heterogeneous changes in western North American glaciers linked to decadal variability in zonal wind strength. Geophysical Research Letters, in press. DOI:[10.1029/2018GL080942](https://doi.org/10.1029/2018GL080942).
 
+- Fallourd, R., **Dehecq, A.**, Jauvin, M., Yan, Y., Vasile, G., Gay, M., Trouvé, E., Nicolas, J.M., 2019. Suivi des glaciers de montagne par imagerie radar satellitaire. Revue Française de Photogrammétrie et de Télédétection 91–105.
+
 - King, O., **Dehecq, A.**, Quincey, D., Carrivick, J., 2018. Contrasting geometric and dynamic evolution of lake and land-terminating glaciers in the central Himalaya. Global and Planetary Change 167, 46–60. DOI:[10.1016/j.gloplacha.2018.05.006](https://doi.org/10.1016/j.gloplacha.2018.05.006).
 
 - **Dehecq, A.**, Millan, R., Berthier, E., Gourmelen, N., Trouve, E., Vionnet, V., 2016. *Elevation Changes Inferred From TanDEM-X Data Over the Mont-Blanc Area: Impact of the X-Band Interferometric Bias.* IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 9, 3870–3882. DOI:[10.1109/JSTARS.2016.2581482](https://doi.org/10.1109/JSTARS.2016.2581482).
