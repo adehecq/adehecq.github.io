@@ -20,10 +20,15 @@ I have co-developed **GeoRaster** and **GeoUtils**, two Python packages for work
 ## Contact information
 
 HIA D-54.2
+
 Hönggerbergring 26
+
 ETH
+
 8093 Zürich
+
 Switzerland
+
 
 *Email:* adehecq at vaw.baug.ethz.ch
 
