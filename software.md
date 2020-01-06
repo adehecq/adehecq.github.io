@@ -11,7 +11,7 @@ A python package for working with geographic rasters. Take a look at the [blog p
 
 ### GeoUtils
 
-A python package to work with geographic rasters and vectors. Include python classes and command-line tools. Take a look at the [GitHub repository](https://github.com/GeoUtils/geoutils) for more details.
+A python package to work with geographic rasters and vectors. Include python classes and command-line tools. Take a look at the [GitHub repository](https://github.com/GeoUtils/geoutils) and [documentation](https://geoutils.readthedocs.io/en/latest/) for more details.
 
 
 ### Other projects
