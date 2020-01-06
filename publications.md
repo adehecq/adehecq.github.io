@@ -12,7 +12,7 @@ title: Publications
 
 - Lacroix, P., **Dehecq, A.**, Taipe, E., 2020. Irrigation-triggered landslides in a Peruvian desert caused by modern intensive farming. Nat. Geosci. 13, 56–60. DOI:[10.1038/s41561-019-0500-x](https://doi.org/10.1038/s41561-019-0500-x)
 
-- Werder M.A., Huss M., Paul F.,**Dehecq A.**, Farinotti D. (2019). A Bayesian ice thickness estimation model for large-scale applications.Journal of Glaciology 1–16. DOI:[10.1017/jog.2019.93](https://doi.org/10.1017/jog.2019.93
+- Werder M.A., Huss M., Paul F.,**Dehecq A.**, Farinotti D. (2019). A Bayesian ice thickness estimation model for large-scale applications.Journal of Glaciology 1–16. DOI:[10.1017/jog.2019.93](https://doi.org/10.1017/jog.2019.93)
 
 - **Dehecq, A.**, Gourmelen, N., Gardner, A.S., Brun, F., Goldberg, D., Nienow, P.W., Berthier, E., Vincent, C., Wagnon, P., Trouvé, E., 2019. Twenty-first century glacier slowdown driven by mass loss in High Mountain Asia. Nature Geoscience 12, 22. DOI:[10.1038/s41561-018-0271-9](https://doi.org/10.1038/s41561-018-0271-9).  
 Press coverage : [BBC](https://www.bbc.com/news/science-environment-46502040), [NASA](https://earthobservatory.nasa.gov/images/144376/ice-loss-slows-down-asian-glaciers), [ESA](https://www.esa.int/Our_Activities/Observing_the_Earth/Space_for_our_climate/Slow_flow_for_glaciers_thinning_in_Asia), [GlacierHub](http://glacierhub.org/2019/01/08/ice-loss-gravity-and-asian-glacier-slowdown/)
