@@ -17,7 +17,7 @@ title: Publications
 - **Dehecq, A.**, Gourmelen, N., Gardner, A.S., Brun, F., Goldberg, D., Nienow, P.W., Berthier, E., Vincent, C., Wagnon, P., Trouvé, E., 2019. Twenty-first century glacier slowdown driven by mass loss in High Mountain Asia. Nature Geoscience 12, 22. DOI:[10.1038/s41561-018-0271-9](https://doi.org/10.1038/s41561-018-0271-9).  
 Press coverage : [BBC](https://www.bbc.com/news/science-environment-46502040), [NASA](https://earthobservatory.nasa.gov/images/144376/ice-loss-slows-down-asian-glaciers), [ESA](https://www.esa.int/Our_Activities/Observing_the_Earth/Space_for_our_climate/Slow_flow_for_glaciers_thinning_in_Asia), [GlacierHub](http://glacierhub.org/2019/01/08/ice-loss-gravity-and-asian-glacier-slowdown/)
 
-- Menounos, B., Hugonnet, R., Shean, D., Gardner, A., Howat, I., Berthier, E., Pelto, B., Tennant, C., Shea, J., Noh, M.-J., Brun, F., **Dehecq, A.**, 2018 Heterogeneous changes in western North American glaciers linked to decadal variability in zonal wind strength. Geophysical Research Letters, in press. DOI:[10.1029/2018GL080942](https://doi.org/10.1029/2018GL080942).
+- Menounos, B., Hugonnet, R., Shean, D., Gardner, A., Howat, I., Berthier, E., Pelto, B., Tennant, C., Shea, J., Noh, M.-J., Brun, F., **Dehecq, A.**, 2018 Heterogeneous changes in western North American glaciers linked to decadal variability in zonal wind strength. Geophysical Research Letters, 46, 200–209. DOI:[10.1029/2018GL080942](https://doi.org/10.1029/2018GL080942).
 
 - Fallourd, R., **Dehecq, A.**, Jauvin, M., Yan, Y., Vasile, G., Gay, M., Trouvé, E., Nicolas, J.M., 2019. Suivi des glaciers de montagne par imagerie radar satellitaire. Revue Française de Photogrammétrie et de Télédétection 91–105.
 
