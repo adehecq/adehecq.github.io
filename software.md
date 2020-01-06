@@ -8,6 +8,7 @@ title: "Software"
 ### GeoRaster
 
 A python package for working with geographic rasters. Take a look at the [blog post](georaster-released), [documentation](http://georaster.readthedocs.io/en/latest/) or [GitHub repository](https://github.com/geoutils/georaster) for more details.
+This can be easily installed using the Conda forge: https://anaconda.org/conda-forge/georaster
 
 ### GeoUtils
 
