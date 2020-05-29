@@ -1,6 +1,7 @@
 ---
 layout: page
 image:
+  feature: pic_header_3.jpg
 title: "Research"
 modified: 2019-01-11
 ---
