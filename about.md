@@ -17,6 +17,8 @@ modified: 2019-01-11
 ### About the panoramas
 * [Homepage]({{ site.url }}/images/pic_header_1.jpg): View from Mera glacier, facing Mount Everest, Lhotse and Makalu (Nepal)
 
+* [About]({{ site.url }}/images/pic_header_1.jpg): View from Mera glacier, facing west (Nepal)
+
 <span><i class="fa fa-creative-commons"></i> 2016 - {{ site.time | date: '%Y' }} {{ site.owner.name }}.</span>
 
 The views expressed on this site are personal and do not necessarily represent the official positions of my employers.
