@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: homepage
 image:
   feature: pic_header_3.jpg
 title: "Research"
