@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: page
 image:
   feature: false
 title: "Software"
