@@ -5,6 +5,13 @@ image:
 title: "Software"
 ---
 
+<footer role="contentinfo">
+  <div class="article-author-bottom">
+    {% include _author-bio.html %}
+  </div>
+</footer>
+
+
 ### GeoRaster
 
 A python package for working with geographic rasters. Take a look at the [blog post](georaster-released), [documentation](http://georaster.readthedocs.io/en/latest/) or [GitHub repository](https://github.com/geoutils/georaster) for more details.

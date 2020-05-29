@@ -6,6 +6,13 @@ title: "Research"
 modified: 2019-01-11
 ---
 
+<footer role="contentinfo">
+  <div class="article-author-bottom">
+    {% include _author-bio.html %}
+  </div>
+</footer>
+
+
 ## Glaciers flow and dynamics
 
 Ice flow controls ice transport to lower elevation where it melts. It is a key component of the glacier-climate relationship and impacts glacier melt rates and extent. It is necessary to understand how glacier flow responds to changes in climate in order to estimate glaciers future evolution and contribution to water resources and sea level rise.  
