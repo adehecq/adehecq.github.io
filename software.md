@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: homepage
 image:
   feature: false
 title: "Software"
@@ -7,7 +7,7 @@ title: "Software"
 
 <footer role="contentinfo">
   <div class="article-author-bottom">
-    {% include _author-bio.html %}
+    {% include _fake-author-bio.html %}
   </div>
 </footer>
 
