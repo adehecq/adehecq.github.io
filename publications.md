@@ -5,12 +5,6 @@ image:
 title: Publications
 ---
 
-<footer role="contentinfo">
-  <div class="article-author-bottom">
-    {% include _author-bio.html %}
-  </div>
-</footer>
-
 
 (Last updated on 29/05/2020)  
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-5157-1183)   

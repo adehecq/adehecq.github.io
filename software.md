@@ -5,12 +5,6 @@ image:
 title: "Software"
 ---
 
-<footer role="contentinfo">
-  <div class="article-author-bottom">
-    {% include _fake-author-bio.html %}
-  </div>
-</footer>
-
 
 ### GeoRaster
 
