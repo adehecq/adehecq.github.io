@@ -20,8 +20,11 @@ I have co-developed **GeoRaster** and **GeoUtils**, two Python packages for work
 ## Contact information
 
 Institut des Géosciences de l'Environnement (IGE)
+
 54, rue Molière
+
 38400 Saint Martin d'Hères
+
 France
 
 *Email:* amaury.dehecq at univ-grenoble-alpes.fr 
