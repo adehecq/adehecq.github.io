@@ -53,7 +53,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll (>= 3.6.3)
   jekyll-sitemap
   octopress
   pygments.rb
