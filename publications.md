@@ -10,9 +10,13 @@ title: Publications
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-5157-1183)   
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.fr/citations?user=4Fk2yxUAAAAJ&hl)   
 
-- Bisset, R.R., **Dehecq, A.**, Goldberg, D.N., Huss, M., Bingham, R.G., Gourmelen, N., 2020. "Reversed Surface-Mass-Balance Gradients on Himalayan Debris-Covered Glaciers Inferred from Remote Sensing." *Remote Sensing* 12, 1563. DOI:[10.3390/rs12101563](https://doi.org/10.3390/rs12101563)
+- Wagnon, P., Brun, F., Khadka, A., Berthier, E., Shrestha, D., Vincent, C., Arnaud, Y., Six, D., **Dehecq, A.**, Ménégoz, M., Jomelli, V., 2021. "Reanalysing the 2007–19 glaciological mass-balance series of Mera Glacier, Nepal, Central Himalaya, using geodetic mass balance." *Journal of Glaciology* 67, 117–125. DOI:[10.1017/jog.2020.88](https://doi.org/10.1017/jog.2020.88)
 
-- Deschamps-Berger, C., Gascoin, S., Berthier, E., Deems, J., Gutmann, E., **Dehecq, A.**, Shean, D., and Dumont, M.: "Snow depth mapping from stereo satellite imagery in mountainous terrain: evaluation using airborne lidar data," *The Cryosphere Discuss.*, DOI:[10.5194/tc-2020-15](https://doi.org/10.5194/tc-2020-15), in review, 2020
+- **Dehecq, A.**, Gardner, A.S., Alexandrov, O., McMichael, S., Hugonnet, R., Shean, D., Marty, M., 2020. "Automated Processing of Declassified KH-9 Hexagon Satellite Images for Global Elevation Change Analysis Since the 1970s." *Frontiers in Earth Science.* 8. DOI:[10.3389/feart.2020.566802](https://doi.org/10.3389/feart.2020.566802)
+
+- Bisset, R.R., **Dehecq, A.**, Goldberg, D.N., Huss, M., Bingham, R.G., Gourmelen, N., 2020. "Reversed Surface-Mass-Balance Gradients on Himalayan Debris-Covered Glaciers Inferred from Remote Sensing." *Remote Sensing* 12, 1563. DOI:[10.3390/rs12101563](https://doi.org/10.3390/rs12101563)
+ 
+- Deschamps-Berger, C., Gascoin, S., Berthier, E., Deems, J., Gutmann, E., **Dehecq, A.**, Shean, D., Dumont, M., 2020. "Snow depth mapping from stereo satellite imagery in mountainous terrain: evaluation using airborne laser-scanning data." *The Cryosphere* 14, 2925–2940. DOI:[10.5194/tc-14-2925-2020](https://doi.org/10.5194/tc-14-2925-2020)
 
 - Farinotti, D., Immerzeel, W.W., Kok, R.J. de, Quincey, D.J., **Dehecq, A.**, 2020. "Manifestations and mechanisms of the Karakoram glacier Anomaly." *Nature Geoscience* 13, 8–16. DOI:[10.1038/s41561-019-0513-5](https://doi.org/10.1038/s41561-019-0513-5)
 
