@@ -19,16 +19,16 @@ I have co-developed **GeoRaster** and **GeoUtils**, two Python packages for work
 
 ## Contact information
 
-Institut des Géosciences de l'Environnement (IGE) 
-54, rue Molière 
-38400 Saint Martin d'Hères 
-France 
+Institut des Géosciences de l'Environnement (IGE)  
+54, rue Molière  
+38400 Saint Martin d'Hères  
+France  
 
-*Email:* amaury.dehecq at univ-grenoble-alpes.fr 
+*Email:* amaury.dehecq at univ-grenoble-alpes.fr
 
 ## Previous affiliations
 
-* 2019-2020: Postdoctoral researcher, VAW, ETH Zürich, CH (D. Farinotti) 
-* 2016-2019: Postdoctoral researcher, NASA Jet Propulsion Laboratory/CalTech, Pasadena, CA, USA  (A. Gardner) 
-* 2016: Postdoctoral researcher, University of Edinburgh, UK  (N. Gourmelen) 
-* 2012-2015: *PhD* student, Université Savoie Mont-Blanc, Annecy, France  (N. Gourmelen, E. Trouvé) 
+* 2019-2020: Postdoctoral researcher, VAW, ETH Zürich, CH (D. Farinotti)
+* 2016-2019: Postdoctoral researcher, NASA Jet Propulsion Laboratory/CalTech, Pasadena, CA, USA  (A. Gardner)
+* 2016: Postdoctoral researcher, University of Edinburgh, UK  (N. Gourmelen)
+* 2012-2015: *PhD* student, Université Savoie Mont-Blanc, Annecy, France  (N. Gourmelen, E. Trouvé)
