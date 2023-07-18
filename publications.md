@@ -6,9 +6,31 @@ title: Publications
 ---
 
 
-(Last updated on 15/02/2021)  
+(Last updated on 18/07/2023)  
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-5157-1183)   
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.fr/citations?user=4Fk2yxUAAAAJ&hl)   
+
+- Guo, L., Li, J., **Dehecq, A.**, Li, Z., Li, X., Zhu, J., 2023. "A new inventory of High Mountain Asia surging glaciers derived from multiple elevation datasets since the 1970s". *Earth System Science Data* 15, 2841–2861. DOI:[10.5194/essd-15-2841-2023](https://doi.org/10.5194/essd-15-2841-2023)
+
+- Berthier, E., Floriciou, D., Gardner, A.S., Gourmelen, N., Jakob, L., Paul, F., Treichler, D., Wouters, B., Belart, J.M.C., **Dehecq, A.**, Dussaillant, I., Hugonnet, R., Kääb, A., Krieger, L., Pálsson, F., Zemp, M., 2023. "Measuring glacier mass changes from space—a review." *Rep. Prog. Phys.* 86, 036801. DOI:[10.1088/1361-6633/acaf8e](https://doi.org/10.1088/1361-6633/acaf8e)
+
+- Knuth, F., Shean, D., Bhushan, S., Schwat, E., Alexandrov, O., McNeil, C., **Dehecq, A.**, Florentine, C., O’Neel, S., 2023. "Historical Structure from Motion (HSfM): Automated processing of historical aerial photographs for long-term topographic change analysis". *Remote Sensing of Environment* 285, 113379. DOI:[10.1016/j.rse.2022.113379](https://doi.org/10.1016/j.rse.2022.113379)
+
+- Compagno, L., Huss, M., Miles, E.S., McCarthy, M.J., Zekollari, H., **Dehecq, A.**, Pellicciotti, F., Farinotti, D., 2022. "Modelling supraglacial debris-cover evolution from the single-glacier to the regional scale: an application to High Mountain Asia". *The Cryosphere* 16, 1697–1718. DOI:[10.5194/tc-16-1697-2022](https://doi.org/10.5194/tc-16-1697-2022)
+
+- **Dehecq, A.**, Altena, B., Gardner, A.S., Trouvé, E., Leinss, S., 2022. "Remote Sensing of Glacier Motion", in: Surface Displacement Measurement from Remote Sensing Images. John Wiley & Sons, Ltd, pp. 339–372. DOI:[10.1002/9781119986843.ch11](https://doi.org/10.1002/9781119986843.ch11)
+
+- Hugonnet, R., Brun, F., Berthier, E., **Dehecq, A.**, Mannerfelt, E.S., Eckert, N., Farinotti, D., 2022. "Uncertainty analysis of digital elevation models by spatial inference from stable terrain". *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 1–17. DOI:[10.1109/JSTARS.2022.3188922](https://doi.org/10.1109/JSTARS.2022.3188922)
+
+- Jouberton, A., Shaw, T.E., Miles, E., McCarthy, M., Fugger, S., Ren, S., **Dehecq, A.**, Yang, W., Pellicciotti, F., 2022." Warming-induced monsoon precipitation phase change intensifies glacier mass loss in the southeastern Tibetan Plateau". *Proceedings of the National Academy of Sciences* 119, e2109796119. DOI:[10.1073/pnas.2109796119](https://doi.org/10.1073/pnas.2109796119)
+
+- Mannerfelt, E.S., **Dehecq, A.**, Hugonnet, R., Hodel, E., Huss, M., Bauder, A., Farinotti, D., 2022. "Halving of Swiss glacier volume since 1931 observed from terrestrial image photogrammetry". *The Cryosphere* 16, 3249–3268. DOI:[10.5194/tc-16-3249-2022](https://doi.org/10.5194/tc-16-3249-2022)
+
+- Saks, T., Pohl, E., Machguth, H., **Dehecq, A.**, Barandun, M., Kenzhebaev, R., Kalashnikova, O., Hoelzle, M., 2022. "Glacier Runoff Variation Since 1981 in the Upper Naryn River Catchments, Central Tien Shan". *Frontiers in Environmental Science* 9. DOI:[10.3389/fenvs.2021.780466](https://doi.org/10.3389/fenvs.2021.780466)
+
+- Volat, M., Quantin-Nataf, C., **Dehecq, A.**, 2022. "Digital elevation model workflow improvements for the MarsSI platform and resulting orthorectified mosaic of Oxia Planum, the landing site of the ExoMars 2022 rover". *Planetary and Space Science* 222, 105552. DOI:[10.1016/j.pss.2022.105552](https://doi.org/10.1016/j.pss.2022.105552)
+
+- Miles, E., McCarthy, M., **Dehecq, A.**, Kneib, M., Fugger, S., Pellicciotti, F., 2021. "Health and sustainability of glaciers in High Mountain Asia". *Nature Communications* 12, 2868. DOI:[10.1038/s41467-021-23073-4](https://doi.org/10.1038/s41467-021-23073-4)
 
 - Wagnon, P., Brun, F., Khadka, A., Berthier, E., Shrestha, D., Vincent, C., Arnaud, Y., Six, D., **Dehecq, A.**, Ménégoz, M., Jomelli, V., 2021. "Reanalysing the 2007–19 glaciological mass-balance series of Mera Glacier, Nepal, Central Himalaya, using geodetic mass balance." *Journal of Glaciology* 67, 117–125. DOI:[10.1017/jog.2020.88](https://doi.org/10.1017/jog.2020.88)
 
