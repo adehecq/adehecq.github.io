@@ -6,9 +6,10 @@ title: Publications
 ---
 
 
-(Last updated on 18/07/2023)  
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-5157-1183)   
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.fr/citations?user=4Fk2yxUAAAAJ&hl)   
+
+Detailed list of publications (last updated on 18/07/2023):
 
 - Guo, L., Li, J., **Dehecq, A.**, Li, Z., Li, X., Zhu, J., 2023. "A new inventory of High Mountain Asia surging glaciers derived from multiple elevation datasets since the 1970s". *Earth System Science Data* 15, 2841–2861. DOI:[10.5194/essd-15-2841-2023](https://doi.org/10.5194/essd-15-2841-2023)
 
