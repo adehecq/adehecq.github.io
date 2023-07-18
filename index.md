@@ -15,7 +15,7 @@ image:
 
 I am based at the Institut des Géosciences de l'Environnement ([IGE](http://www.ige-grenoble.fr/)) in Grenoble, France, and employed by the French Research Institute for Sustainable Development ([IRD](www.ird.fr)) since 2021. My current project aims at estimating the glaciers contribution to sea level rise since the 1970s using historical satellite imagery. I am also studying the dynamics response of glaciers to these changes using surface ice flow velocities derived from feature-tracking of repeat imagery. Check out for example the [ITS LIVE project](https://its-live.jpl.nasa.gov/)!
 
-I have co-developed **GeoRaster** and **GeoUtils**, two Python packages for working with geographic rasters and vectors. Take a look at the [blog post](georaster-released), [documentation](http://georaster.readthedocs.io/en/latest/) or [GitHub repository](https://github.com/geoutils/georaster) for more details.
+I am a core developer of **GeoUtils** and **xDEM**, two Python packages for analyzing georeferenced data and digital elevation models in Python. Take a look at the [software page](software) for more details.
 
 ## Contact information
 
