@@ -5,16 +5,15 @@ image:
 title: "Software"
 ---
 
-
-### GeoRaster
-
-A python package for working with geographic rasters. Take a look at the [blog post](georaster-released), [documentation](http://georaster.readthedocs.io/en/latest/) or [GitHub repository](https://github.com/geoutils/georaster) for more details.
-This can be easily installed using the Conda forge: https://anaconda.org/conda-forge/georaster
+A list of software projects I contribute to.
 
 ### GeoUtils
 
-A python package to work with geographic rasters and vectors. Include python classes and command-line tools. Take a look at the [GitHub repository](https://github.com/GeoUtils/geoutils) and [documentation](https://geoutils.readthedocs.io/en/latest/) for more details.
+A Python module for accessible, efficient and reliable geospatial analysis (rasters, vectors etc). Take a look at the [GitHub repository](https://github.com/GlacioHack/GeoUtils/) and [documentation](https://geoutils.readthedocs.io/en/stable/) for more details.
 
+### xDEM
+
+A python module designed for the analysis of digital elevation models. Take a look at the [GitHub repository](https://github.com/GlacioHack/xdem/) and [documentation](https://xdem.readthedocs.io/en/stable/) for more details.
 
 ### Other projects
 
